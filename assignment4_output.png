@@ -1,1 +1,6 @@
+PS C:\Users\Naman> & C:/Python/python.exe vehicle.py
 
+Car starts with key
+Bike starts with self-start
+
+PS C:\Users\Naman>
