@@ -1,0 +1,7 @@
+PS C:\Users\Naman> & C:/Python/python.exe bank.py
+
+2000 deposited successfully
+1000 withdrawn successfully
+Current Balance : 6000
+
+PS C:\Users\Naman>
