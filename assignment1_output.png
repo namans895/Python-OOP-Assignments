@@ -1,1 +1,8 @@
+PS C:\Users\Naman> & C:/Python/python.exe student.py
 
+Name : Naman
+Roll Number : 101
+Marks : 88
+Grade : B
+
+PS C:\Users\Naman>
