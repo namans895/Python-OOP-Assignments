@@ -1,1 +1,25 @@
+PS C:\Users\Naman> & C:/Python/python.exe library.py
 
+Python Basics added to library
+Data Structures added to library
+Machine Learning added to library
+
+Available Books:
+- Python Basics
+- Data Structures
+- Machine Learning
+
+Data Structures issued successfully
+
+Available Books:
+- Python Basics
+- Machine Learning
+
+Data Structures returned successfully
+
+Available Books:
+- Python Basics
+- Machine Learning
+- Data Structures
+
+PS C:\Users\Naman>
